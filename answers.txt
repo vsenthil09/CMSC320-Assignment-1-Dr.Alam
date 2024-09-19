@@ -1,5 +1,13 @@
+
 Q1: Why might be consider using git?
 
 Answer: Git is very useful for adding to existing code and adding updates to company code. This way everyone can access the code, not just one employee who 
 is working on the current update.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data Science can be applied to the field of finance, an example of how it can help is by 
+analyzing market data and finance statements, and using that to assess risk levels. This can help 
+Financial firms make smarter choices and better investment decisions. This overall will help the 
+companies manage financial risk, which will in turn help their company grow.
 
