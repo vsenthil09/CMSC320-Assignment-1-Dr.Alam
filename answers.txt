@@ -11,3 +11,9 @@ analyzing market data and finance statements, and using that to assess risk leve
 Financial firms make smarter choices and better investment decisions. This overall will help the 
 companies manage financial risk, which will in turn help their company grow.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: The difference between merging and rebasing is that merging combines the history of the two 
+branches, so it makes a new merge commit. While rebasing rewrites the commit history, so it applies 
+the commit front the current branch on top of another branch. Merging keeps the history of both 
+branches while rebasing create a linear history. 
