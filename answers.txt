@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer: Git is very useful for adding to existing code and adding updates to company code. This way everyone can access the code, not just one employee who 
+is working on the current update.
